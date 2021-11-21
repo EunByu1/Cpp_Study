@@ -10,7 +10,7 @@
 # pragma endregion
 using namespace std;
 
-# pragma region [2] 클래스 선언 
+# pragma region [2] 클래스 생성
 # pragma endregion
 class Point			
 {
